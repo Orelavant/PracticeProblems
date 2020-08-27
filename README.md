@@ -4,7 +4,7 @@ A place to keep track of coding interview practice problem solutions (except if 
 ## Why? 
 Because keeping track of things is motivating and fun!
 
-**Formatting**
+### Formatting
 - Folder: source of practice problem.
 - File Name: name of practice problem from source.
 

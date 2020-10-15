@@ -8,4 +8,8 @@ Because keeping track of things is motivating and fun!
 - Folder: source of practice problem.
 - File Name: name of practice problem from source.
 
+### Source Key
+- CtCI: Cracking the Coding Interview
+- DCP: Daily Coding Problem
+
 **Tracking [here](https://docs.google.com/spreadsheets/d/1QuqM2t4ECYogKs6qNR2YLwMOSOBj9lcG0yurHMS1VG0/edit#gid=0)**
